@@ -9,7 +9,7 @@ from mac_say import say
 from time import sleep
 
 #-- funtion to issue a bash script to install requirements?--
-#create requirements file
+#create requirements file test
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 #Password Generator Project
