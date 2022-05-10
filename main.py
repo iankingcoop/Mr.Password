@@ -158,7 +158,7 @@ myimg = PhotoImage(file='mr_pass2.png')
 canvas.create_image(140, 140, image=myimg)
 canvas.grid(row=0, column=1)
 
-#Labels
+#Labels 
 service_label = Label(text="Service: ", bg='#000', fg='#f00')
 service_label.grid(row=2, column=0)
 email_user_label = Label(text="Email or username: ", bg='#000', fg='#f00')
