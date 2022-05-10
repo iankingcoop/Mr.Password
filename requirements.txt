@@ -1,0 +1,2 @@
+mac_say==2020.12.3
+pyperclip==1.8.2
