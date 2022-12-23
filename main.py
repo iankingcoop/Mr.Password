@@ -8,7 +8,7 @@ import pyperclip
 from mac_say import say
 from time import sleep
 
-#-- funtion to issue a bash script to install requirements?--
+#-- funtion to issue a bash script to install requirements?-- TEST1
 #create requirements file test 2
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
